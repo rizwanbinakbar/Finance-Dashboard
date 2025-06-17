@@ -12,7 +12,8 @@ This Power BI project explores Finance data of an organizaion, providing a clean
 
 -  Power BI report file
 -  Dataset used
-- ![Dahsboard](datasets_docs/Spotify_Picture_Project.png)
+- ![Dahsboard](docs/Full Dashboard.png)
+- ![Expense Tooltip](ddocs/Expense Tooltip.png)
 
 ## Tools and Technologies
 

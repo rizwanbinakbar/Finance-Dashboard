@@ -29,4 +29,4 @@ This Power BI project explores Finance data of an organizaion, providing a clean
 - Interactive Calender and Refresh buttons, Tooltips
 - Data used is for educational and portfolio purposes only.
 
-Regards, **Rizwan Khan**
+Regards, **Rizwan Bin Akbar**

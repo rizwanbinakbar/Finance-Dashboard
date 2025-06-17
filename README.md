@@ -10,7 +10,7 @@ This Power BI project explores Finance data of an organizaion, providing a clean
 
 ## Project Files
 
--  Power BI report file
+-  Power BI report file (E-mail me if you want the source file, rizwanforbuissnes@gmail.com happy to help 😊)
 -  Dataset used
 - ![DashBoard](docs/Full%20Dashboard.png)
 - ![Expense Tooltip](docs/Expense%20Tooltip.png)
